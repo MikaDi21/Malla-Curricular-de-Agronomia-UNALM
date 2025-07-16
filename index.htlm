@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>MALLA CURRICULAR DE AGRONOMÍA - UNALM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>MALLA CURRICULAR DE AGRONOMÍA - UNALM</h1>
+    <div class="malla">
+        <div class="ciclo">
+            <h2>Ciclo I</h2>
+            <div class="curso actual">Análisis Matemático I</div>
+            <div class="curso completado">Ecología General</div>
+            <div class="curso completado">Introducción a la Agronomía</div>
+            <div class="curso bloqueado">Química General</div>
+            <div class="curso completado">Sociedad y Cultura Peruana</div>
+        </div>
+        <div class="ciclo">
+            <h2>Ciclo II</h2>
+            <div class="curso bloqueado">Análisis Matemático II</div>
+            <div class="curso bloqueado">Biología General</div>
+            <div class="curso bloqueado">Economía General</div>
+            <div class="curso bloqueado">Física General</div>
+            <div class="curso bloqueado">Lenguaje y Comunicación</div>
+            <div class="curso bloqueado">Perú en el Contexto Internacional</div>
+            <div class="curso bloqueado">Química Orgánica</div>
+        </div>
+    </div>
+</body>
+</html>
